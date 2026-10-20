@@ -1,0 +1,15 @@
+node_modules
+.next
+.tools
+.git
+.env*
+!.env.example
+data
+video
+artifacts
+playwright-report
+test-results
+coverage
+*.tsbuildinfo
+.DS_Store
+.railway

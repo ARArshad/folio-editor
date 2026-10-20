@@ -1,0 +1,19 @@
+node_modules
+.next
+.tools
+data
+package-lock.json
+next-env.d.ts
+playwright-report
+test-results
+artifacts
+
+video/.venv
+video/tts-env
+video/tools
+video/raw
+video/composition/assets
+video/composition/.hyperframes
+
+# Video production has its own HyperFrames validation pipeline.
+video/
